@@ -1,0 +1,8 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+I chose to use Javascript and  Node.js with Express.js to develop the REST API because it is easy to intergrade the REST API into a full stack application if needed. I also used Postman for the requests to test the functionality of the REST API.
+
+2. What are the advantages and disadvantages of your solution?
+An advantage is the simplicity of the code and it is scalable however in my solution there is no In-memory storage so that would be the first thing I would work on.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+My favorite project would have to be RxMeterics it is a program that provides pharmacies with critical metrics such as prescription counts, controlled substance statistics, weekly profit, and drug financial performance. It is currently utilized by three pharmacies. I implemented the solution using Python, pandas, and AWS.
